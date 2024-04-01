@@ -4,7 +4,7 @@
 
 I am a beginner programmer. My path to IT began in 2023, when I began to be interested in developing various websites and applications. Participated in GLO Academy intensive courses. I'm currently learning JavaScript on my own.
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-accalisha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/accalisha) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:t.alisher.1997@gmail.com)
+:mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-accalisha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/accalisha) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:t.alisher.1997@gmail.com)
 
 ### Technologies & Tools
 
